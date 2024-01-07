@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{zmM2:function(e,t,a){"use strict";a.r(t);a("q1tI");var n=a("eIJk"),o=a("B7F5"),i=a("Jj01"),c=a("H8eV"),r=a("qKvR");t.default=function(){return Object(r.c)(o.a,{activeTab:n.a.Philosophy},Object(r.c)(c.a,{title:"Philosophy",description:"The rationale for creating DRC Foundation; who we are and what we are trying to achieve."}),Object(r.c)(i.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-philosophy-tsx-98fd4d0eb955d8dbeaaf.js.map

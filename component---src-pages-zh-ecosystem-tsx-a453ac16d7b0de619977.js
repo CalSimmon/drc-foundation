@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{XghF:function(t,c,e){"use strict";e.r(c);e("q1tI");var a=e("eIJk"),n=e("B7F5"),i=e("QHzP"),o=e("H8eV"),s=e("qKvR");c.default=function(){return Object(s.c)(n.a,{activeTab:a.a.Ecosystem,lang:"zh"},Object(s.c)(o.a,{title:"管理",description:"DRC基金会和基金如何适应更广泛的DRC生态系统。参看管理和建议详细说明。",lang:"zh"}),Object(s.c)(i.a,{lang:"zh"}))}}}]);
+//# sourceMappingURL=component---src-pages-zh-ecosystem-tsx-a453ac16d7b0de619977.js.map

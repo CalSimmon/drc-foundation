@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{WCx9:function(a,e,t){"use strict";t.r(e);t("q1tI");var n=t("eIJk"),i=t("B7F5"),c=t("Vho2"),o=t("H8eV"),l=t("qKvR");e.default=function(){return Object(l.c)(i.a,{activeTab:n.a.Fund},Object(l.c)(o.a,{title:"DRC Fund",description:"The Multisig DRC Foundation Fund wallet. Total available funds and previous transactions are available for all to see - transparency is the key."}),Object(l.c)(c.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-fund-tsx-c747317d57dc43e48e08.js.map

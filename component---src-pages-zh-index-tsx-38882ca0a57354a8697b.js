@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[16],{"+pwL":function(e,t,a){"use strict";a.r(t);a("q1tI");var c=a("eIJk"),n=a("B7F5"),i=a("mWom"),o=a("H8eV"),p=a("qKvR");t.default=function(){return Object(p.c)(n.a,{activeTab:c.a.Home,lang:"zh"},Object(p.c)(o.a,{title:"首页",description:"DRC基金会是一个非官方的，社区主导的组织，致力于支持DRC生态系统的增长和发展",lang:"zh"}),Object(p.c)(i.a,{lang:"zh"}))}}}]);
+//# sourceMappingURL=component---src-pages-zh-index-tsx-38882ca0a57354a8697b.js.map

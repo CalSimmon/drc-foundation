@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{YV0q:function(n,t,a){"use strict";a.r(t);a("q1tI");var c=a("eIJk"),e=a("B7F5"),i=a("Vho2"),o=a("H8eV"),u=a("qKvR");t.default=function(){return Object(u.c)(e.a,{activeTab:c.a.Fund,lang:"zh"},Object(u.c)(o.a,{title:"基金",description:"DRC基金会使用多签名钱包。资金总额和每一笔交易都会对所有人保持绝对透明，这是基金会运营的基础原则。",lang:"zh"}),Object(u.c)(i.a,{lang:"zh"}))}}}]);
+//# sourceMappingURL=component---src-pages-zh-fund-tsx-2a7cec2c03ca2eee1608.js.map

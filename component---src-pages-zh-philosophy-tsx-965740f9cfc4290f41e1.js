@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[17],{MlOM:function(t,a,c){"use strict";c.r(a);c("q1tI");var e=c("eIJk"),n=c("B7F5"),i=c("Jj01"),o=c("H8eV"),l=c("qKvR");a.default=function(){return Object(l.c)(n.a,{activeTab:e.a.Philosophy,lang:"zh"},Object(l.c)(o.a,{title:"理念",description:"建立DRC基金会的理由；关于我们，我们正在努力实现什么。",lang:"zh"}),Object(l.c)(i.a,{lang:"zh"}))}}}]);
+//# sourceMappingURL=component---src-pages-zh-philosophy-tsx-965740f9cfc4290f41e1.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{"qyp+":function(e,t,n){"use strict";n.r(t);n("q1tI");var c=n("eIJk"),o=n("B7F5"),a=n("QHzP"),s=n("H8eV"),i=n("qKvR");t.default=function(){return Object(i.c)(o.a,{activeTab:c.a.Ecosystem},Object(i.c)(s.a,{title:"DRC Ecosystem",description:"How the DRC Foundation and Fund fits in to the wider DRC ecosystem. Governance and Proposals detailed here."}),Object(i.c)(a.a,null))}}}]);
+//# sourceMappingURL=component---src-pages-ecosystem-tsx-3caebf4215061f873c4f.js.map
